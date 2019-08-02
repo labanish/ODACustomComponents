@@ -2,8 +2,10 @@
 
 Find all the reusable  custom  components here.
 
-I have not uploaded the other files included in the package but this files themselves are well commented to show you what functionality they have.
+I have not uploaded the other files included in the package but these files themselves are well commented to show explain their functionalites.
 
-*This scripts are for demo purposes* 
+You need to have created either an external or Embedded ODA component to reuse these.
 
 Feel free to reuse. 
+
+Credits: Evangelos R.
