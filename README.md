@@ -6,6 +6,6 @@ I have not uploaded the other files included in the package but these files them
 
 You need to have created either an external or Embedded ODA component to reuse these.
 
-Feel free to reuse. 
+Feel free to reuse. Note that some of the script functionalities are deprecated! 
 
 Credits: Evangelos R.
