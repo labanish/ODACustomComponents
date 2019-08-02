@@ -1,6 +1,6 @@
 # ODACustomComponents
 
-Find all the reusable  custom  components here.
+Find all the reusable  custom  components scripts here :)
 
 I have not uploaded the other files included in the package but these files themselves are well commented to explain their functionalites.
 
